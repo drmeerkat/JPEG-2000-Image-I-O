@@ -10,4 +10,4 @@
 **This is just a personal side project.**
 - Main class includes test function for each feature.
 - See below for more details.
-![Image of Functions](https://github.com/drmeerkat/JPEG-2000-Image-IO/Picture1.png)
+![Image of Functions](https://github.com/drmeerkat/JPEG-2000-Image-IO/blob/master/Picture1.png)
